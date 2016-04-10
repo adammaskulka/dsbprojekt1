@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="public" match-name="casomeraci"/>
+  <table-filter match-schema="public" match-name="rozhodcovia"/>
+  <table-filter match-schema="public" match-name="stadiony"/>
+  <table-filter match-schema="public" match-name="testy"/>
+  <table-filter match-schema="public" match-name="timy"/>
+  <table-filter match-schema="public" match-name="zapasy"/>
+</hibernate-reverse-engineering>
